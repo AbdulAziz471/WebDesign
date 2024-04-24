@@ -1,0 +1,350 @@
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-Bold.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-Bold.woff2') format('woff'),
+        url('../src/assets/font/Cambon-Bold.woff2') format('truetype');
+    font-weight: Bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-LightItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-LightItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-LightItalic.woff2') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-Regular.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-Regular.woff2') format('woff'),
+        url('../src/assets/font/Cambon-Regular.woff2') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-BlackItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-BlackItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-BlackItalic.woff2') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-Light.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-Light.woff2') format('woff'),
+        url('../src/assets/font/Cambon-Light.woff2') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-SemiBoldItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-SemiBoldItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-SemiBoldItalic.woff2') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-LightItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-LightItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-LightItalic.woff2') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-Bold.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-Bold.woff2') format('woff'),
+        url('../src/assets/font/Cambon-Bold.woff2') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-MediumItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-MediumItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-MediumItalic.woff2') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-Medium.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-Medium.woff2') format('woff'),
+        url('../src/assets/font/Cambon-Medium.woff2') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-ExtraLightItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-ExtraLightItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-ExtraLightItalic.woff2') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-Black.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-Black.woff2') format('woff'),
+        url('../src/assets/font/Cambon-Black.woff2') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-ExtraBoldItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-ExtraBoldItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-ExtraBoldItalic.woff2') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-BoldItalic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-BoldItalic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-BoldItalic.woff2') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-ExtraBold.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-ExtraBold.woff2') format('woff'),
+        url('../src/assets/font/Cambon-ExtraBold.woff2') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-Italic.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-Italic.woff2') format('woff'),
+        url('../src/assets/font/Cambon-Italic.woff2') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-SemiBold.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-SemiBold.woff2') format('woff'),
+        url('../src/assets/font/Cambon-SemiBold.woff2') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-SemiBold.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-SemiBold.woff2') format('woff'),
+        url('../src/assets/font/Cambon-SemiBold.woff2') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Combon';
+    src: url('../src/assets/font/Cambon-SemiBold.woff2') format('woff2'),
+        url('../src/assets/font/Cambon-SemiBold.woff2') format('woff'),
+        url('../src/assets/font/Cambon-SemiBold.woff2') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+
+@font-face {
+    font-family: 'DINRoundPro';
+    src: url('DINRoundPro-Black.eot');
+    src: local('DINRoundPro-Black'),
+        url('DINRoundPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Black.woff2') format('woff2'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Black.woff') format('woff'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro-Medi';
+    src: url('DINRoundPro-Medi.eot');
+    src: local('DINRoundPro-Medi'),
+        url('DINRoundPro-Medi.eot?#iefix') format('embedded-opentype'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Medi.woff2') format('woff2'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Medi.woff') format('woff'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Medi.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro';
+    src: url('DINRoundPro-Light.eot');
+    src: local('DINRoundPro-Light'),
+        url('DINRoundPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Light.woff2') format('woff2'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Light.woff') format('woff'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro';
+    src: url('DINRoundPro.eot');
+    src: local('DINRoundPro'),
+        url('DINRoundPro.eot?#iefix') format('embedded-opentype'),
+        url('./assets/font/DinRoundPro/DINRoundPro.woff2') format('woff2'),
+        url('./assets/font/DinRoundPro/DINRoundPro.woff') format('woff'),
+        url('./assets/font/DinRoundPro/DINRoundPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro';
+    src: url('DINRoundPro-Bold.eot');
+    src: local('DINRoundPro-Bold'),
+        url('DINRoundPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Bold.woff2') format('woff2'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Bold.woff') format('woff'),
+        url('./assets/font/DinRoundPro/DINRoundPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-BlackItalic.woff') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-Bold.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-Black.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-BoldItalic.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-MediumItalic.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline Regular';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-RegularItalic.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-SemiboldItalic.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-LightItalic.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-Light.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-Medium.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-Semibold.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tiempos Headline';
+    src: url('./assets/font/Tiempos_font/TiemposHeadline-Regular.woff2') format('woff2'),
+        url('./assets/font/Tiempos_font/TiemposHeadline-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
